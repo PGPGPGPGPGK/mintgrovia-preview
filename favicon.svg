@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Mintgrovia">
+  <title>Mintgrovia</title>
+  <rect width="64" height="64" rx="14" fill="#0E2D24"/>
+  <g transform="translate(-0.03 -4.75) scale(0.53)">
+    <path d="M56 104 C41.27 98.17 24.67 89.84 24.71 62.47 C51.03 69.98 54.45 88.24 56 104Z" fill="#57C26B"/>
+    <path d="M56 104 C57.71 80.76 61.9 53.41 97.2 35.43 C97.9 75.04 75.71 91.58 56 104Z" fill="#57C26B"/>
+  </g>
+</svg>
